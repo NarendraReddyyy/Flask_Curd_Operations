@@ -1,16 +1,3 @@
 Flask
 mysql-connector-python
 Flask-SQLAlchemy
-
-
-#Extract the zip file.
-#Open the extracted folder in VS Code.
-#Run the following command to install dependencies: by below cmd
-
-#   pip install -r requirements.txt
-
-#Update the config.py file with your MySQL credentials.
-#Start the Flask application: by below cmd
-
-#   python app.py
-​
